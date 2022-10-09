@@ -35,7 +35,7 @@ body main main-container {
   font-size: 100px;
 }
 body main main-container:hover {
-  border-color: rgb(115, 10, 235);
+  border-color: rgb(48, 235, 10);
   transition: all 0.2s;
 }
 body main main-container img {
@@ -148,6 +148,9 @@ body main main-container cc a.R:active {
   }
   body main greet {
     font-size: 60px;
+  }
+  body main greet {
+    margin: 0px 20px;
   }
   body main main-container {
     width: 82%;
